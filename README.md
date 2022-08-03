@@ -5,14 +5,14 @@ These are a suite of C++ programs which deal with Sudoku Puzzles.This suite incl
 
 ## Contents
 
-
+* [Getting started](#Getting-started)
 * [Sudoku Solver](#sudoku-solver)
     * [Getting Started (Usage)](#getting-started)
     * [How It Works](#how-it-works)
 * [Sudoku Validator](#sudoku-validator)
     * [Getting Started (Usage)](#getting-started-1)
     * [How It Works](#how-it-works-1)
-    * [Getting started](#Getting-started)
+    
 
 # Getting started
 

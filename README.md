@@ -4,18 +4,18 @@
 These are a suite of C++ programs which deal with Sudoku Puzzles.This suite include a Sudoku solver and Sudoku validator. Sudoku solver is based on recursion and backtracking and sudoku validator is based on the basic conditioning of sudoku validation.
 
 ## Contents
+
+
 * [Sudoku Solver](#sudoku-solver)
     * [Getting Started (Usage)](#getting-started)
     * [How It Works](#how-it-works)
 * [Sudoku Validator](#sudoku-validator)
     * [Getting Started (Usage)](#getting-started-1)
     * [How It Works](#how-it-works-1)
+    * [Getting started](#Getting-started)
 
+# Getting started
 
-# Sudoku-Solver
-This is a program which solves 9x9 Sudoku puzzles. **Written completely in C++** and **built wholly from scratch**, this program reads input either from a user or from a file containing the Sudoku values and solves the puzzle. It employs concepts such as backtracking and recursion.
-
-### Getting Started
 * Simply download the ```sudoku-solver.cpp``` file found in the ```Sudoku-Solver/``` directory. Run it using any standard C++ compiler. In case of any errors or compatibility issues, submit an issue in this git.
 * Once downloaded, compiled and run; the program will require the user to input the Sudoku puzzle into it. There are two ways to do this.
     * The user can either input the values manually one-by-one when the program is running.
@@ -56,7 +56,9 @@ This is a program which solves 9x9 Sudoku puzzles. **Written completely in C++**
     ++-----------++-----------++-----------++
     || 5   2   8 || 9   3   4 || 1   6   7 ||
     ++=====================================++
-    ```
+
+# Sudoku-Solver
+This is a program which solves 9x9 Sudoku puzzles. **Written completely in C++** and **built wholly from scratch**, this program reads input either from a user or from a file containing the Sudoku values and solves the puzzle. It employs concepts such as backtracking and recursion.
 
 ### How It Works
 This particular algorithm employs the use of backtracking, one of the more common methods to solve Sudoku puzzles. I've written a simple algorithm to give an idea of how the program works.
